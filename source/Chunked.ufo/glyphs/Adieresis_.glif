@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Aring" format="1">
-  <advance width="835.0"/>
-  <unicode hex="00C5"/>
+<glyph name="Adieresis" format="1">
+  <advance width="823.0"/>
+  <unicode hex="00C4"/>
   <outline>
+    <contour>
+      <point x="295" y="723" type="curve"/>
+      <point x="345" y="723"/>
+      <point x="386" y="762"/>
+      <point x="386" y="812" type="curve"/>
+      <point x="386" y="861"/>
+      <point x="345" y="902"/>
+      <point x="295" y="902" type="curve"/>
+      <point x="246" y="902"/>
+      <point x="207" y="861"/>
+      <point x="207" y="812" type="curve"/>
+      <point x="207" y="762"/>
+      <point x="246" y="723"/>
+    </contour>
+    <contour>
+      <point x="503" y="723" type="curve"/>
+      <point x="553" y="723"/>
+      <point x="594" y="762"/>
+      <point x="594" y="812" type="curve"/>
+      <point x="594" y="861"/>
+      <point x="553" y="902"/>
+      <point x="503" y="902" type="curve"/>
+      <point x="454" y="902"/>
+      <point x="415" y="861"/>
+      <point x="415" y="812" type="curve"/>
+      <point x="415" y="762"/>
+      <point x="454" y="723"/>
+    </contour>
     <contour>
       <point x="378.0" y="535.0" type="line"/>
       <point x="444.0" y="319.0" type="line"/>
@@ -27,34 +55,6 @@
       <point x="407.0" y="131.0" type="line"/>
       <point x="407.0" y="0.0" type="line"/>
       <point x="808.0" y="0.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="391" y="724" type="curve"/>
-      <point x="445" y="724"/>
-      <point x="490" y="767"/>
-      <point x="490" y="821" type="curve"/>
-      <point x="490" y="875"/>
-      <point x="445" y="920"/>
-      <point x="391" y="920" type="curve"/>
-      <point x="337" y="920"/>
-      <point x="294" y="875"/>
-      <point x="294" y="821" type="curve"/>
-      <point x="294" y="767"/>
-      <point x="337" y="724"/>
-    </contour>
-    <contour>
-      <point x="391" y="782" type="curve"/>
-      <point x="369" y="782"/>
-      <point x="352" y="800"/>
-      <point x="352" y="822" type="curve"/>
-      <point x="352" y="844"/>
-      <point x="369" y="861"/>
-      <point x="391" y="861" type="curve"/>
-      <point x="413" y="861"/>
-      <point x="431" y="844"/>
-      <point x="431" y="822" type="curve"/>
-      <point x="431" y="800"/>
-      <point x="413" y="782"/>
     </contour>
   </outline>
   <lib>

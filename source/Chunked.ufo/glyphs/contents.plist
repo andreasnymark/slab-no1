@@ -8,6 +8,10 @@
 	<string>_null.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
+	<key>AE</key>
+	<string>AE_.glif</string>
+	<key>Adieresis</key>
+	<string>Adieresis_.glif</string>
 	<key>Aring</key>
 	<string>Aring_.glif</string>
 	<key>B</key>
@@ -68,8 +72,12 @@
 	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>aacute</key>
+	<string>aacute.glif</string>
 	<key>adieresis</key>
 	<string>adieresis.glif</string>
+	<key>agrave</key>
+	<string>agrave.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>aring</key>
@@ -106,6 +114,8 @@
 	<string>e.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
+	<key>egrave</key>
+	<string>egrave.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
 	<key>emdash</key>
@@ -204,6 +214,8 @@
 	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+	<key>udieresis</key>
+	<string>udieresis.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
 	<key>v</key>

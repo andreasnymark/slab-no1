@@ -3,34 +3,8 @@
   <advance width="653"/>
   <unicode hex="00C8"/>
   <outline>
-    <contour>
-      <point x="400" y="764" type="line"/>
-      <point x="316" y="715" type="line"/>
-      <point x="140" y="906" type="line"/>
-      <point x="272" y="983" type="line"/>
-    </contour>
-    <contour>
-      <point x="25.0" y="567.0" type="line"/>
-      <point x="88.0" y="567.0" type="line"/>
-      <point x="88.0" y="133.0" type="line"/>
-      <point x="25.0" y="133.0" type="line"/>
-      <point x="25.0" y="0.0" type="line"/>
-      <point x="628.0" y="0.0" type="line"/>
-      <point x="628.0" y="226.0" type="line"/>
-      <point x="455.0" y="226.0" type="line"/>
-      <point x="455.0" y="133.0" type="line"/>
-      <point x="295.0" y="133.0" type="line"/>
-      <point x="295.0" y="296.0" type="line"/>
-      <point x="485.0" y="296.0" type="line"/>
-      <point x="485.0" y="429.0" type="line"/>
-      <point x="295.0" y="429.0" type="line"/>
-      <point x="295.0" y="567.0" type="line"/>
-      <point x="455.0" y="567.0" type="line"/>
-      <point x="455.0" y="478.0" type="line"/>
-      <point x="628.0" y="478.0" type="line"/>
-      <point x="628.0" y="699.0" type="line"/>
-      <point x="25.0" y="699.0" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="grave" xOffset="55" yOffset="160"/>
   </outline>
   <lib>
     <dict>

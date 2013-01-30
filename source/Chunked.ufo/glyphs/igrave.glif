@@ -4,16 +4,10 @@
   <unicode hex="00EC"/>
   <outline>
     <contour>
-      <point x="121.0" y="811.0" type="line"/>
-      <point x="249.0" y="592.0" type="line"/>
-      <point x="165.0" y="543.0" type="line"/>
-      <point x="-11.0" y="734.0" type="line"/>
-    </contour>
-    <contour>
       <point x="305" y="131" type="line"/>
       <point x="257" y="131" type="line"/>
       <point x="257" y="500" type="line"/>
-      <point x="25" y="500" type="line"/>
+      <point x="25" y="500" type="line" smooth="yes"/>
       <point x="25" y="370" type="line"/>
       <point x="67" y="370" type="line"/>
       <point x="67" y="131" type="line"/>
@@ -21,6 +15,7 @@
       <point x="25" y="0" type="line"/>
       <point x="305" y="0" type="line"/>
     </contour>
+    <component base="grave" xOffset="-96"/>
   </outline>
   <lib>
     <dict>

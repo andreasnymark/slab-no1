@@ -186,6 +186,8 @@
 	<string>minus.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>newGlyph</key>
+	<string>newG_lyph.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>numbersign</key>

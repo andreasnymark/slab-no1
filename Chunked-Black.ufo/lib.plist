@@ -490,6 +490,7 @@
 		<string>.notdef</string>
 		<string>.null</string>
 		<string>CR</string>
+		<string>newGlyph</string>
 	</array>
 </dict>
 </plist>

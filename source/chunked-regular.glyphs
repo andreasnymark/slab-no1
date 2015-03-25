@@ -1,4 +1,9 @@
 {
+DisplayStrings = (
+A,
+o,
+e
+);
 customParameters = (
 {
 name = glyphOrder;
@@ -158,6 +163,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
+lastChange = "2015-03-25 06:46:01 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -166,9 +172,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"707 73 LINE",
-"637 73 LINE",
-"460 699 LINE",
+"733 73 LINE",
+"663 73 LINE",
+"486 699 LINE",
 "194 699 LINE",
 "194 629 LINE",
 "268 629 LINE",
@@ -179,30 +185,31 @@ nodes = (
 "271 73 LINE",
 "193 73 LINE",
 "256 279 LINE",
-"481 279 LINE",
-"539 73 LINE",
-"445 73 LINE",
-"445 0 LINE",
-"707 0 LINE"
+"507 279 LINE",
+"565 73 LINE",
+"471 73 LINE",
+"471 0 LINE",
+"733 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "360 629 LINE",
-"382 629 LINE",
-"459 360 LINE",
+"408 629 LINE",
+"485 360 LINE",
 "279 360 LINE"
 );
 }
 );
-width = 722;
+width = 764;
 }
 );
 unicode = 0041;
 },
 {
 glyphname = Agrave;
+lastChange = "2015-03-25 06:46:01 +0000";
 layers = (
 {
 components = (
@@ -217,7 +224,7 @@ transform = "{1, 0, 0, 1, 85, 168}";
 );
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Bold;
-width = 722;
+width = 764;
 }
 );
 unicode = 00C0;
@@ -228,6 +235,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = Aacute;
+lastChange = "2015-03-25 06:46:01 +0000";
 layers = (
 {
 components = (
@@ -242,7 +250,7 @@ transform = "{1, 0, 0, 1, 224, 168}";
 );
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Bold;
-width = 722;
+width = 764;
 }
 );
 unicode = 00C1;
@@ -2254,49 +2262,89 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = e;
+lastChange = "2015-03-25 07:00:37 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"432 -15 OFFCURVE",
+"527 104 OFFCURVE",
+"527 251 CURVE SMOOTH",
+"527 399 OFFCURVE",
+"432 519 OFFCURVE",
+"273 519 CURVE SMOOTH",
+"114 519 OFFCURVE",
+"20 399 OFFCURVE",
+"20 251 CURVE SMOOTH",
+"20 104 OFFCURVE",
+"114 -15 OFFCURVE",
+"273 -15 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"157 58 OFFCURVE",
+"114 159 OFFCURVE",
+"114 248 CURVE SMOOTH",
+"114 336 OFFCURVE",
+"157 447 OFFCURVE",
+"273 447 CURVE SMOOTH",
+"389 447 OFFCURVE",
+"435 336 OFFCURVE",
+"435 248 CURVE SMOOTH",
+"435 159 OFFCURVE",
+"389 58 OFFCURVE",
+"273 58 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"436 131 LINE",
-"386 86 OFFCURVE",
-"341 48 OFFCURVE",
-"276 48 CURVE SMOOTH",
-"175 48 OFFCURVE",
-"110 144 OFFCURVE",
-"110 219 CURVE",
-"475 219 LINE",
-"495 276 OFFCURVE",
-"484 334 OFFCURVE",
-"473 369 CURVE SMOOTH",
-"446 453 OFFCURVE",
-"362 514 OFFCURVE",
-"251 514 CURVE SMOOTH",
-"111 514 OFFCURVE",
-"5 397 OFFCURVE",
-"5 253 CURVE SMOOTH",
-"5 84 OFFCURVE",
-"130 -15 OFFCURVE",
-"269 -15 CURVE SMOOTH",
-"433 -15 OFFCURVE",
-"461 45 OFFCURVE",
-"486 69 CURVE"
+"517 399 OFFCURVE",
+"430 519 OFFCURVE",
+"271 519 CURVE SMOOTH",
+"112 519 OFFCURVE",
+"20 399 OFFCURVE",
+"20 251 CURVE SMOOTH",
+"20 104 OFFCURVE",
+"114 -15 OFFCURVE",
+"292 -15 CURVE SMOOTH",
+"380 -15 OFFCURVE",
+"441 14 OFFCURVE",
+"484 60 CURVE",
+"420 124 LINE",
+"394 91 OFFCURVE",
+"347 68 OFFCURVE",
+"292 68 CURVE SMOOTH",
+"167 68 OFFCURVE",
+"124.097 138.438 OFFCURVE",
+"115.53 219 CURVE",
+"501 219 LINE",
+"516 220 LINE",
+"517 230 OFFCURVE",
+"517 240 OFFCURVE",
+"517 251 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"350 452 OFFCURVE",
-"394 365 OFFCURVE",
-"394 306 CURVE",
-"113 306 LINE",
-"113 374 OFFCURVE",
-"161 452 OFFCURVE",
-"250 452 CURVE SMOOTH"
+"364 447 OFFCURVE",
+"413 375 OFFCURVE",
+"429 301 CURVE",
+"119.106 301 LINE",
+"133.5 374.998 OFFCURVE",
+"178 447 OFFCURVE",
+"271 447 CURVE SMOOTH"
 );
 }
 );
@@ -5658,48 +5706,48 @@ weightClass = Black;
 );
 kerning = {
 "4E6304A5-AAA7-499A-971C-E934927B9416" = {
-V = {
-y = "-60";
-u = "-60";
-e = "-60";
-a = "-60";
-o = "-60";
-};
-W = {
-y = "-30";
-u = "-30";
-e = "-60";
-a = "-60";
-r = "-60";
-s = "-60";
-o = "-60";
-};
 F = {
-y = "-30";
-u = "-30";
-e = "-60";
 a = "-60";
+e = "-60";
+o = "-60";
 r = "-60";
 s = "-60";
-o = "-60";
+u = "-30";
+y = "-30";
 };
 T = {
-y = "-40";
-u = "-40";
-e = "-60";
 a = "-60";
+e = "-60";
+o = "-60";
 r = "-60";
 s = "-60";
+u = "-40";
+y = "-40";
+};
+V = {
+a = "-60";
+e = "-60";
 o = "-60";
+u = "-60";
+y = "-60";
+};
+W = {
+a = "-60";
+e = "-60";
+o = "-60";
+r = "-60";
+s = "-60";
+u = "-30";
+y = "-30";
 };
 Y = {
-y = "-30";
-u = "-40";
-e = "-60";
 a = "-60";
+e = "-60";
+o = "-80";
 r = "-60";
 s = "-60";
-o = "-80";
+u = "-40";
+y = "-30";
 };
 };
 };

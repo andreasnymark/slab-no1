@@ -12,4 +12,4 @@ Slab № 1 (formely Chunked) started as project to expand upon Chunk with a grea
 
 ## Slab № 1 Regular
 
-![Slab № 1 Regular, work in progress](https://github.com/andreasnymark/slab-no1/blob/master/images/slab-no1-regular-ha.png?raw=true) 
+![Slab № 1 Regular, work in progress](https://github.com/andreasnymark/slab-no1/raw/master/images/slab-no1-regular-ha.png) 

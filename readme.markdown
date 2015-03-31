@@ -1,15 +1,15 @@
-# Chunked 
+# Slab № 1
 
 ![Chunk](https://github.com/theleagueof/chunk/raw/master/images/chunk-1.jpeg)
 
-## Based on original Chunk
+## Based on Chunk
 
 Chunk, by [Meredith Mandel](http://www.meredithmandel.com/), is an ultra-bold slab serif typeface that is reminiscent of old American Western woodcuts, broadsides, and newspaper headlines. Used mainly for display, the fat block lettering is unreserved yet refined for contemporary use.
 
-## Chunked is with more chunks
+## Slab № 1
 
-Chunked started as project to expand upon Chunk with a greater set of glyphs. Now I’m also adding more weights. This is work in progress.
+Slab № 1 (formely Chunked) started as project to expand upon Chunk with a greater set of glyphs. Now I’m also adding more weights. This is work in progress.
 
-## Chunked Regular
+## Slab № 1 Regular
 
-![Chunked Regular, work in progress](https://github.com/andreasnymark/chunked/raw/master/images/chunked_regular-ha.png)
+![Slab № 1 Regular, work in progress](https://github.com/andreasnymark/slab-no1/blob/master/images/slab-no1-regular-ha.png?raw=true) 

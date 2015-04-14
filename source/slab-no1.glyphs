@@ -1,9 +1,7 @@
 {
 DisplayStrings = (
-H,
-Nocturpnal,
-ZNHA,
-"NOEL N"
+A,
+"\U00C5len"
 );
 copyright = "SIL Open Font License, Version 1.1";
 customParameters = (
@@ -166,7 +164,7 @@ position = "{406, 67}";
 position = "{523, 82}";
 },
 {
-position = "{687, 617}";
+position = "{687, 616}";
 }
 );
 id = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -495,54 +493,82 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = Aring;
-lastChange = "2015-03-28 21:56:10 +0000";
+lastChange = "2015-04-14 21:35:37 +0000";
 layers = (
 {
-components = (
-{
-name = A;
-transform = "{1, 0, 0, 1, 24, 0}";
-}
-);
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Regular;
 paths = (
 {
 closed = 1;
 nodes = (
-"299 719 OFFCURVE",
-"342 676 OFFCURVE",
-"396 676 CURVE",
-"450 676 OFFCURVE",
-"495 719 OFFCURVE",
-"495 773 CURVE",
-"495 827 OFFCURVE",
-"450 872 OFFCURVE",
-"396 872 CURVE",
-"342 872 OFFCURVE",
-"299 827 OFFCURVE",
-"299 773 CURVE"
+"300 684 OFFCURVE",
+"347 637 OFFCURVE",
+"407 637 CURVE",
+"467 637 OFFCURVE",
+"516 684 OFFCURVE",
+"516 744 CURVE",
+"516 804 OFFCURVE",
+"467 854 OFFCURVE",
+"407 854 CURVE",
+"347 854 OFFCURVE",
+"300 804 OFFCURVE",
+"300 744 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"450 744 OFFCURVE",
-"425 719 OFFCURVE",
-"395 719 CURVE",
-"365 719 OFFCURVE",
-"342 744 OFFCURVE",
-"342 773 CURVE",
-"342 803 OFFCURVE",
-"365 826 OFFCURVE",
-"395 826 CURVE",
-"425 826 OFFCURVE",
-"450 803 OFFCURVE",
-"450 773 CURVE"
+"459 716 OFFCURVE",
+"435 692 OFFCURVE",
+"406 692 CURVE",
+"377 692 OFFCURVE",
+"355 716 OFFCURVE",
+"355 744 CURVE",
+"355 773 OFFCURVE",
+"377 795 OFFCURVE",
+"406 795 CURVE",
+"435 795 OFFCURVE",
+"459 773 OFFCURVE",
+"459 744 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"426 673 LINE",
+"387 673 LINE",
+"585 82 LINE",
+"487 82 LINE",
+"487 0 LINE",
+"745 0 LINE",
+"745 82 LINE",
+"677 82 LINE",
+"473 699 LINE",
+"409 654 LINE",
+"339 699 LINE",
+"232 699 LINE",
+"232 617 LINE",
+"317 617 LINE",
+"154 82 LINE",
+"75 82 LINE",
+"75 0 LINE",
+"331 0 LINE",
+"331 82 LINE",
+"249 82 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"236 236 LINE",
+"571 236 LINE",
+"571 318 LINE",
+"236 318 LINE"
 );
 }
 );
-width = 835;
+width = 765;
 },
 {
 layerId = "70C07CCB-E656-445C-9B5E-231F15CCA5A3";
@@ -1033,7 +1059,7 @@ unicode = 0045;
 },
 {
 glyphname = Egrave;
-lastChange = "2015-03-28 21:56:10 +0000";
+lastChange = "2015-04-14 21:16:23 +0000";
 layers = (
 {
 components = (
@@ -1047,7 +1073,7 @@ transform = "{1, 0, 0, 1, 55, 160}";
 );
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Regular;
-width = 574;
+width = 594;
 },
 {
 components = (
@@ -1072,7 +1098,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = Eacute;
-lastChange = "2015-03-28 21:56:10 +0000";
+lastChange = "2015-04-14 21:16:23 +0000";
 layers = (
 {
 components = (
@@ -1086,7 +1112,7 @@ transform = "{1, 0, 0, 1, 140, 164}";
 );
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Regular;
-width = 574;
+width = 594;
 },
 {
 components = (
@@ -1618,7 +1644,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2015-03-31 22:58:15 +0000";
+lastChange = "2015-04-14 21:21:44 +0000";
 layers = (
 {
 background = {
@@ -1674,17 +1700,17 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"187 191 LINE",
-"592 628 LINE",
+"178 230 LINE",
+"583 628 LINE",
 "529 686 LINE",
-"124 249 LINE"
+"124 288 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"434 82 LINE",
-"434 0 LINE",
+"394 82 LINE",
+"394 0 LINE",
 "718 0 LINE",
 "718 82 LINE"
 );
@@ -1694,17 +1720,17 @@ closed = 1;
 nodes = (
 "656 617 LINE",
 "656 699 LINE",
-"393 699 LINE",
-"393 617 LINE"
+"394 699 LINE",
+"394 617 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"319 391 LINE",
-"572 13 LINE",
+"304 391 LINE",
+"570 13 LINE",
 "645 72 LINE",
-"392 451 LINE"
+"379 451 LINE"
 );
 }
 );
@@ -1943,7 +1969,7 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2015-04-14 06:40:32 +0000";
+lastChange = "2015-04-14 18:53:55 +0000";
 layers = (
 {
 background = {
@@ -2026,20 +2052,20 @@ nodes = (
 "460 617 LINE",
 "549 617 LINE",
 "550 19 LINE",
-"584 23 LINE",
-"252 699 LINE",
-"13 699 LINE",
-"13 617 LINE",
-"101 617 LINE",
-"101 82 LINE",
-"12 82 LINE",
-"12 0 LINE",
-"293 0 LINE",
-"293 82 LINE",
-"185 82 LINE",
-"185 683 LINE",
-"155 679 LINE",
-"488 0 LINE",
+"594 23 LINE",
+"262 699 LINE",
+"23 699 LINE",
+"23 617 LINE",
+"111 617 LINE",
+"111 82 LINE",
+"22 82 LINE",
+"22 0 LINE",
+"303 0 LINE",
+"303 82 LINE",
+"195 82 LINE",
+"195 683 LINE",
+"165 679 LINE",
+"498 0 LINE",
 "633 0 LINE",
 "633 617 LINE",
 "723 617 LINE"
@@ -2085,7 +2111,7 @@ unicode = 004E;
 },
 {
 glyphname = O;
-lastChange = "2015-04-13 22:06:02 +0000";
+lastChange = "2015-04-14 19:21:59 +0000";
 layers = (
 {
 background = {
@@ -2126,6 +2152,12 @@ nodes = (
 }
 );
 };
+guideLines = (
+{
+angle = 270;
+position = "{342, 371}";
+}
+);
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Regular;
 paths = (
@@ -2133,34 +2165,34 @@ paths = (
 closed = 1;
 nodes = (
 "657 590 OFFCURVE",
-"512 716 OFFCURVE",
+"517 716 OFFCURVE",
 "339 716 CURVE SMOOTH",
-"166 716 OFFCURVE",
+"162 716 OFFCURVE",
 "26 590 OFFCURVE",
-"26 358 CURVE",
-"26 124 OFFCURVE",
-"158 -17 OFFCURVE",
+"26 361 CURVE",
+"26 122 OFFCURVE",
+"162 -17 OFFCURVE",
 "339 -17 CURVE SMOOTH",
-"521 -17 OFFCURVE",
-"657 119 OFFCURVE",
-"657 358 CURVE SMOOTH"
+"517 -17 OFFCURVE",
+"657 122 OFFCURVE",
+"657 361 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"561 204 OFFCURVE",
-"485 81 OFFCURVE",
-"341 81 CURVE SMOOTH",
-"194 81 OFFCURVE",
-"122 204 OFFCURVE",
-"122 363 CURVE",
-"122 502 OFFCURVE",
-"198 629 OFFCURVE",
+"563 204 OFFCURVE",
+"484 70 OFFCURVE",
+"341 70 CURVE SMOOTH",
+"196 70 OFFCURVE",
+"120 204 OFFCURVE",
+"120 361 CURVE",
+"120 502 OFFCURVE",
+"196 629 OFFCURVE",
 "341 629 CURVE SMOOTH",
-"482 629 OFFCURVE",
-"561 502 OFFCURVE",
-"561 363 CURVE SMOOTH"
+"484 629 OFFCURVE",
+"563 502 OFFCURVE",
+"563 361 CURVE SMOOTH"
 );
 }
 );
@@ -2212,7 +2244,7 @@ unicode = 004F;
 },
 {
 glyphname = Ograve;
-lastChange = "2015-03-28 21:56:10 +0000";
+lastChange = "2015-04-14 21:16:23 +0000";
 layers = (
 {
 components = (
@@ -2226,7 +2258,7 @@ transform = "{1, 0, 0, 1, 93, 174}";
 );
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Regular;
-width = 740;
+width = 700;
 },
 {
 components = (
@@ -2251,7 +2283,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = Oacute;
-lastChange = "2015-03-28 21:56:10 +0000";
+lastChange = "2015-04-14 21:16:23 +0000";
 layers = (
 {
 components = (
@@ -2265,7 +2297,7 @@ transform = "{1, 0, 0, 1, 179, 171}";
 );
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Regular;
-width = 740;
+width = 700;
 },
 {
 components = (
@@ -5474,7 +5506,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2015-03-28 21:56:10 +0000";
+lastChange = "2015-04-14 21:26:31 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -5483,20 +5515,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"215 67 LINE",
-"155 67 LINE",
-"155 750 LINE",
-"26 750 LINE",
-"26 686 LINE",
-"68 686 LINE",
-"68 67 LINE",
-"26 67 LINE",
-"26 0 LINE",
-"215 0 LINE"
+"312 82 LINE",
+"220 82 LINE",
+"220 750 LINE",
+"48 750 LINE",
+"48 668 LINE",
+"128 668 LINE",
+"128 82 LINE",
+"48 82 LINE",
+"48 0 LINE",
+"312 0 LINE"
 );
 }
 );
-width = 257;
+width = 337;
 },
 {
 layerId = "70C07CCB-E656-445C-9B5E-231F15CCA5A3";

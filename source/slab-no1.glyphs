@@ -1,7 +1,9 @@
 {
 DisplayStrings = (
-A,
-"\U00C5len"
+"H\U00C5Nl1ij",
+K,
+H,
+N
 );
 copyright = "SIL Open Font License, Version 1.1";
 customParameters = (
@@ -158,7 +160,8 @@ guideLines = (
 position = "{896, -230}";
 },
 {
-position = "{406, 67}";
+angle = 180;
+position = "{406, 74}";
 },
 {
 position = "{523, 82}";
@@ -191,7 +194,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-04-13 21:50:51 +0000";
+lastChange = "2015-04-15 21:31:01 +0000";
 layers = (
 {
 guideLines = (
@@ -493,7 +496,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = Aring;
-lastChange = "2015-04-14 21:35:37 +0000";
+lastChange = "2015-04-15 21:44:24 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -1336,46 +1339,12 @@ unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2015-04-02 18:45:50 +0000";
+lastChange = "2015-04-15 21:41:00 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
 name = Regular;
 paths = (
-{
-closed = 1;
-nodes = (
-"558 82 LINE",
-"475 82 LINE",
-"475 0 LINE",
-"733 0 LINE",
-"733 82 LINE",
-"650 82 LINE",
-"650 617 LINE",
-"733 617 LINE",
-"733 699 LINE",
-"475 699 LINE",
-"475 617 LINE",
-"558 617 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"272 617 LINE",
-"348 617 LINE",
-"348 699 LINE",
-"101 699 LINE",
-"101 617 LINE",
-"180 617 LINE",
-"180 82 LINE",
-"102 82 LINE",
-"102 0 LINE",
-"348 0 LINE",
-"348 82 LINE",
-"272 82 LINE"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -1390,6 +1359,40 @@ closed = 1;
 nodes = (
 "272 314 LINE",
 "272 406 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"572 82 LINE",
+"489 82 LINE",
+"489 0 LINE",
+"747 0 LINE",
+"747 82 LINE",
+"664 82 LINE",
+"664 617 LINE",
+"747 617 LINE",
+"747 699 LINE",
+"489 699 LINE",
+"489 617 LINE",
+"572 617 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 617 LINE",
+"334 617 LINE",
+"334 699 LINE",
+"87 699 LINE",
+"87 617 LINE",
+"166 617 LINE",
+"166 82 LINE",
+"88 82 LINE",
+"88 0 LINE",
+"334 0 LINE",
+"334 82 LINE",
+"258 82 LINE"
 );
 }
 );
@@ -1644,7 +1647,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2015-04-14 21:21:44 +0000";
+lastChange = "2015-04-15 21:37:27 +0000";
 layers = (
 {
 background = {
@@ -1675,6 +1678,10 @@ position = "{384, 385}";
 {
 angle = -54.4186;
 position = "{505, 266}";
+},
+{
+angle = 270;
+position = "{413, 586}";
 }
 );
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -1702,35 +1709,42 @@ closed = 1;
 nodes = (
 "178 230 LINE",
 "583 628 LINE",
-"529 686 LINE",
-"124 288 LINE"
+"532 682 LINE",
+"127 284 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"394 82 LINE",
-"394 0 LINE",
-"718 0 LINE",
-"718 82 LINE"
+"404 82 LINE",
+"404 0 LINE",
+"738 0 LINE",
+"738 82 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"656 617 LINE",
-"656 699 LINE",
-"394 699 LINE",
-"394 617 LINE"
+"666 617 LINE",
+"666 699 LINE",
+"403 699 LINE",
+"403 617 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"304 391 LINE",
+"319 431 LINE",
 "570 13 LINE",
 "645 72 LINE",
-"379 451 LINE"
+"394 491 LINE"
+);
+},
+{
+closed = 0;
+nodes = (
+"399 491 LINE",
+"324 431 LINE"
 );
 }
 );
@@ -1969,7 +1983,7 @@ unicode = 004D;
 },
 {
 glyphname = N;
-lastChange = "2015-04-14 18:53:55 +0000";
+lastChange = "2015-04-15 21:40:38 +0000";
 layers = (
 {
 background = {
@@ -5088,7 +5102,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2015-04-13 21:02:08 +0000";
+lastChange = "2015-04-15 21:53:37 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -5097,64 +5111,64 @@ paths = (
 {
 closed = 1;
 nodes = (
-"259 82 LINE",
-"199 82 LINE",
-"199 500 LINE",
-"65 500 LINE",
-"65 418 LINE",
-"107 418 LINE",
-"107 82 LINE",
-"65 82 LINE",
-"65 0 LINE",
-"259 0 LINE"
+"269 74 LINE",
+"209 74 LINE",
+"209 500 LINE",
+"75 500 LINE",
+"75 426 LINE",
+"117 426 LINE",
+"117 74 LINE",
+"75 74 LINE",
+"75 0 LINE",
+"269 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"82 636 OFFCURVE",
-"108 605 OFFCURVE",
-"143 605 CURVE",
-"184 605 OFFCURVE",
-"206 631 OFFCURVE",
-"206 663 CURVE",
-"206 689 OFFCURVE",
-"183 721 OFFCURVE",
-"143 721 CURVE",
-"104 721 OFFCURVE",
-"82 689 OFFCURVE",
-"82 663 CURVE"
+"25 0 LINE",
+"117 0 LINE",
+"117 74 LINE",
+"25 74 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"15 0 LINE",
-"107 0 LINE",
-"107 82 LINE",
-"15 82 LINE"
+"209 0 LINE",
+"301 0 LINE",
+"301 74 LINE",
+"209 74 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"15 418 LINE",
-"107 418 LINE",
-"107 500 LINE",
-"15 500 LINE"
+"25 426 LINE",
+"117 426 LINE",
+"117 500 LINE",
+"25 500 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"199 0 LINE",
-"291 0 LINE",
-"291 82 LINE",
-"199 82 LINE"
+"193 571 OFFCURVE",
+"218 596 OFFCURVE",
+"218 627 CURVE SMOOTH",
+"218 658 OFFCURVE",
+"193 683 OFFCURVE",
+"163 683 CURVE SMOOTH",
+"132 683 OFFCURVE",
+"107 658 OFFCURVE",
+"107 627 CURVE SMOOTH",
+"107 596 OFFCURVE",
+"132 571 OFFCURVE",
+"163 571 CURVE SMOOTH"
 );
 }
 );
-width = 330;
+width = 340;
 },
 {
 layerId = "70C07CCB-E656-445C-9B5E-231F15CCA5A3";
@@ -5334,7 +5348,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = j;
-lastChange = "2015-03-28 18:10:14 +0000";
+lastChange = "2015-04-15 21:55:31 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -5360,18 +5374,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"82 616 OFFCURVE",
-"107 584 OFFCURVE",
-"148 584 CURVE SMOOTH",
-"187 584 OFFCURVE",
-"211 613 OFFCURVE",
-"211 642 CURVE SMOOTH",
-"211 672 OFFCURVE",
-"186 705 OFFCURVE",
-"146 705 CURVE SMOOTH",
-"104 705 OFFCURVE",
-"82 671 OFFCURVE",
-"82 644 CURVE SMOOTH"
+"194 571 OFFCURVE",
+"219 596 OFFCURVE",
+"219 627 CURVE SMOOTH",
+"219 658 OFFCURVE",
+"194 683 OFFCURVE",
+"164 683 CURVE SMOOTH",
+"133 683 OFFCURVE",
+"108 658 OFFCURVE",
+"108 627 CURVE SMOOTH",
+"108 596 OFFCURVE",
+"133 571 OFFCURVE",
+"164 571 CURVE SMOOTH"
 );
 }
 );
@@ -5506,7 +5520,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2015-04-14 21:26:31 +0000";
+lastChange = "2015-04-15 21:49:47 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -5515,15 +5529,15 @@ paths = (
 {
 closed = 1;
 nodes = (
-"312 82 LINE",
-"220 82 LINE",
+"312 74 LINE",
+"220 74 LINE",
 "220 750 LINE",
-"48 750 LINE",
-"48 668 LINE",
-"128 668 LINE",
-"128 82 LINE",
-"48 82 LINE",
-"48 0 LINE",
+"50 750 LINE",
+"50 676 LINE",
+"128 676 LINE",
+"128 74 LINE",
+"50 74 LINE",
+"50 0 LINE",
 "312 0 LINE"
 );
 }

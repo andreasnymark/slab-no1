@@ -5,7 +5,10 @@ dpbq,
 ceos,
 nhmu,
 "sams\U00F8",
-"vad g\U00F6r du"
+"vad g\U00F6r du",
+R,
+C,
+g
 );
 copyright = "SIL Open Font License, Version 1.1";
 customParameters = (
@@ -3633,7 +3636,7 @@ unicode = 004F;
 },
 {
 glyphname = Ograve;
-lastChange = "2015-04-22 06:09:20 +0000";
+lastChange = "2015-05-01 20:07:39 +0000";
 layers = (
 {
 components = (
@@ -3661,7 +3664,7 @@ transform = "{1, 0, 0, 1, 93, 174}";
 );
 layerId = "70C07CCB-E656-445C-9B5E-231F15CCA5A3";
 name = Bold;
-width = 740;
+width = 691;
 }
 );
 unicode = 00D2;
@@ -3672,7 +3675,7 @@ com.typemytype.robofont.layerData = {
 },
 {
 glyphname = Oacute;
-lastChange = "2015-04-22 06:09:34 +0000";
+lastChange = "2015-05-01 20:07:39 +0000";
 layers = (
 {
 components = (
@@ -3700,7 +3703,7 @@ transform = "{1, 0, 0, 1, 179, 171}";
 );
 layerId = "70C07CCB-E656-445C-9B5E-231F15CCA5A3";
 name = Bold;
-width = 740;
+width = 691;
 }
 );
 unicode = 00D3;
@@ -7848,7 +7851,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2015-05-01 19:59:16 +0000";
+lastChange = "2015-05-01 20:08:39 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -7906,19 +7909,19 @@ nodes = (
 "113 109 CURVE SMOOTH",
 "113 34 OFFCURVE",
 "151 -5 OFFCURVE",
-"359 -5 CURVE SMOOTH",
+"282 -5 CURVE SMOOTH",
 "445 -5 OFFCURVE",
 "483 -23 OFFCURVE",
 "483 -69 CURVE SMOOTH",
 "483 -120 OFFCURVE",
-"456 -118 OFFCURVE",
+"456 -148 OFFCURVE",
 "329 -148 CURVE SMOOTH",
-"235 -170 OFFCURVE",
+"233 -148 OFFCURVE",
 "174 -110 OFFCURVE",
 "174 -66 CURVE SMOOTH",
 "174 -15 OFFCURVE",
-"255 -2 OFFCURVE",
-"282 -2 CURVE",
+"255 -4 OFFCURVE",
+"282 -4 CURVE",
 "242 16 LINE",
 "210 16 OFFCURVE",
 "78 25 OFFCURVE",
@@ -7931,7 +7934,7 @@ nodes = (
 "576 -81 CURVE",
 "576 21 OFFCURVE",
 "515 78 OFFCURVE",
-"359 78 CURVE",
+"338 78 CURVE SMOOTH",
 "232 78 OFFCURVE",
 "200 88 OFFCURVE",
 "200 119 CURVE",

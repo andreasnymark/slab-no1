@@ -13,3 +13,14 @@ Slab № 1 (formely Chunked) started as project to expand upon Chunk with a grea
 ## Slab № 1 Regular
 
 ![Slab № 1 Regular, work in progress](https://github.com/andreasnymark/slab-no1/raw/master/images/slab-no1-regular-ha.png) 
+
+***
+
+# Work in progress
+
+###### 1 May, 2015
+
+Showing off some of the differences between Chunk and Slab No.1. Slab No.1 regular to the left and Chunk to the right.
+
+![Slab No. 1 is different compared to Chunk.](https://github.com/andreasnymark/slab-no1/raw/master/images/slab-no1-gQR_diff.png)
+

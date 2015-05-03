@@ -24,3 +24,11 @@ Showing off some of the differences between Chunk and Slab No.1. Slab No.1 regul
 
 ![Slab No. 1 is different compared to Chunk.](https://github.com/andreasnymark/slab-no1/raw/master/images/slab-no1-gQR_diff.png)
 
+***
+
+###### 3 May, 2015
+
+Basic latin is fairly done.
+
+![Slab No.1 basic latin](https://github.com/andreasnymark/slab-no1/raw/master/images/slab-no1-basic_latin.png)
+

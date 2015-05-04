@@ -18,7 +18,7 @@ Slab № 1 (formely Chunked) started as project to expand upon Chunk with a grea
 
 # Work in progress
 
-###### 1 May, 2015
+###### May 1, 2015
 
 Showing off some of the differences between Chunk and Slab No.1. Slab No.1 regular to the left and Chunk to the right.
 
@@ -26,7 +26,7 @@ Showing off some of the differences between Chunk and Slab No.1. Slab No.1 regul
 
 ***
 
-###### 3 May, 2015
+###### May 3, 2015
 
 Basic latin is fairly done.
 

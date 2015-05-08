@@ -16855,7 +16855,7 @@ unicode = 0152;
 },
 {
 glyphname = Thorn;
-lastChange = "2015-05-07 21:15:25 +0000";
+lastChange = "2015-05-08 06:29:02 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -16876,9 +16876,9 @@ nodes = (
 "179 480 LINE",
 "306 480 LINE SMOOTH",
 "396 480 OFFCURVE",
-"436 431 OFFCURVE",
-"436 363 CURVE SMOOTH",
-"436 302 OFFCURVE",
+"439 431 OFFCURVE",
+"439 363 CURVE SMOOTH",
+"439 302 OFFCURVE",
 "386 254 OFFCURVE",
 "313 254 CURVE SMOOTH",
 "179 254 LINE"
@@ -16890,8 +16890,8 @@ nodes = (
 "201 699 LINE",
 "30 699 LINE",
 "30 622 LINE",
-"109 622 LINE",
-"109 82 LINE",
+"113 622 LINE",
+"113 82 LINE",
 "30 82 LINE",
 "30 0 LINE",
 "280 0 LINE",
@@ -16909,7 +16909,7 @@ nodes = (
 );
 }
 );
-width = 600;
+width = 571;
 },
 {
 layerId = "70C07CCB-E656-445C-9B5E-231F15CCA5A3";
@@ -16917,6 +16917,8 @@ name = Bold;
 width = 600;
 }
 );
+leftMetricsKey = H;
+rightMetricsKey = P;
 unicode = 00DE;
 },
 {

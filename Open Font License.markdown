@@ -1,4 +1,4 @@
-	Copyright (c) 2009, Meredith Mandel <meredith@meredithmandel.com>, with Reserved Font Name: "Chunk".
+	Copyright (c) 2015, Andreas Nymark <andreas@nymark.me>, with Reserved Font Name: "Slab No. 1".
 
 	This Font Software is licensed under the SIL Open Font License, Version 1.1.
 	This license is copied below, and is also available with a FAQ at:

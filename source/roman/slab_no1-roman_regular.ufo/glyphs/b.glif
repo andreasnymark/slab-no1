@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b" format="1">
+  <advance width="606"/>
+  <unicode hex="0062"/>
+  <outline>
+    <component base="_part.bdstem" xOffset="-39"/>
+    <component base="_part.pdbqbowl" xOffset="-2" yOffset="3"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ograve" format="1">
+  <advance width="711"/>
+  <unicode hex="00D2"/>
+  <outline>
+    <component base="O"/>
+    <component base="_part.grave" xOffset="158" yOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.istem" format="1">
+  <advance width="340"/>
+  <outline>
+    <contour>
+      <point x="265" y="74" type="line"/>
+      <point x="205" y="74" type="line"/>
+      <point x="205" y="500" type="line"/>
+      <point x="75" y="500" type="line"/>
+      <point x="75" y="426" type="line"/>
+      <point x="117" y="426" type="line"/>
+      <point x="117" y="74" type="line"/>
+      <point x="75" y="74" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="29" y="0" type="line"/>
+      <point x="117" y="0" type="line"/>
+      <point x="117" y="74" type="line"/>
+      <point x="29" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="293" y="0" type="line"/>
+      <point x="293" y="74" type="line"/>
+      <point x="205" y="74" type="line"/>
+    </contour>
+    <contour>
+      <point x="29" y="426" type="line"/>
+      <point x="117" y="426" type="line"/>
+      <point x="117" y="500" type="line"/>
+      <point x="29" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.bdstem" format="1">
+  <advance width="320"/>
+  <outline>
+    <contour>
+      <point x="235" y="74" type="line"/>
+      <point x="235" y="750" type="line"/>
+      <point x="59" y="750" type="line"/>
+      <point x="59" y="676" type="line"/>
+      <point x="147" y="676" type="line"/>
+      <point x="147" y="74" type="line"/>
+      <point x="59" y="74" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,8 +1,8 @@
 # Slab No. 1
 
-![Chunk](https://github.com/theleagueof/chunk/raw/master/images/chunk-1.jpeg)
+![Slab No. 1](https://github.com/andreasnymark/slab-no1/raw/master/images/specimen-03.png)
 
-Slab No. 1 (formely Chunked) started as project to add diacritical marks and to expand the open source font Chunk, by [Meredith Mandel](http://www.meredithmandel.com/) (image above). 
+Slab No. 1 (formely Chunked) started as project to add diacritical marks and to expand the open source font Chunk, by [Meredith Mandel](http://www.meredithmandel.com/). 
 
 As my work on the regular weight progressed, the design evolved and I decided to redraw the black weight, initially intended to be an expanded version of Chunk.
 

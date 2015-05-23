@@ -452,12 +452,12 @@
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>Scommaaccent</string>
-		<string>Germandbls</string>
+		<string>uni1E9E</string>
 		<string>T</string>
 		<string>Tbar</string>
 		<string>Tcaron</string>
-		<string>Tcedilla</string>
-		<string>Tcommaaccent</string>
+		<string>uni0162</string>
+		<string>uni021A</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
@@ -521,11 +521,11 @@
 		<string>h</string>
 		<string>hbar</string>
 		<string>i</string>
-		<string>idotless</string>
+		<string>dotlessi</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
-		<string>idotaccent</string>
+		<string>i.loclTRK</string>
 		<string>igrave</string>
 		<string>imacron</string>
 		<string>iogonek</string>
@@ -570,8 +570,8 @@
 		<string>t</string>
 		<string>tbar</string>
 		<string>tcaron</string>
-		<string>tcedilla</string>
-		<string>tcommaaccent</string>
+		<string>uni0163</string>
+		<string>uni021B</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
@@ -634,8 +634,8 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
-		<string>guillemetleft</string>
-		<string>guillemetright</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 		<string>quotedblbase</string>
@@ -651,7 +651,7 @@
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
-		<string>euro</string>
+		<string>Euro</string>
 		<string>sterling</string>
 		<string>yen</string>
 		<string>divide</string>
@@ -660,39 +660,50 @@
 		<string>less</string>
 		<string>minus</string>
 		<string>multiply</string>
+		<string>notequal</string>
 		<string>percent</string>
 		<string>plus</string>
 		<string>bar</string>
+		<string>brokenbar</string>
 		<string>at</string>
 		<string>ampersand</string>
+		<string>paragraph</string>
+		<string>copyright</string>
+		<string>registered</string>
 		<string>section</string>
+		<string>trademark</string>
 		<string>degree</string>
 		<string>asciicircum</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
 		<string>acutecomb</string>
-		<string>brevecomb</string>
-		<string>caroncomb</string>
-		<string>cedillacomb</string>
-		<string>circumflexcomb</string>
-		<string>commaaccentcomb</string>
-		<string>commaturnedabovecomb</string>
-		<string>dieresiscomb</string>
-		<string>dotaccentcomb</string>
+		<string>uni0306</string>
+		<string>uni030C</string>
+		<string>uni0327</string>
+		<string>uni0302</string>
+		<string>uni0326</string>
+		<string>uni0312</string>
+		<string>uni0308</string>
+		<string>uni0307</string>
 		<string>gravecomb</string>
-		<string>hungarumlautcomb</string>
-		<string>macroncomb</string>
-		<string>ogonekcomb</string>
-		<string>ringcomb</string>
-		<string>strokelongoverlaycomb</string>
-		<string>strokeshortoverlaycomb</string>
+		<string>uni030B</string>
+		<string>uni0304</string>
+		<string>uni0328</string>
+		<string>uni030A</string>
+		<string>uni0336</string>
+		<string>uni0335</string>
 		<string>tildecomb</string>
 		<string>acute</string>
 		<string>breve</string>
+		<string>caron</string>
 		<string>cedilla</string>
 		<string>circumflex</string>
 		<string>dieresis</string>
 		<string>dotaccent</string>
 		<string>grave</string>
+		<string>hungarumlaut</string>
 		<string>macron</string>
+		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
 		<string>_part.shoulder</string>

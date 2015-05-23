@@ -47,6 +47,11 @@
 		<string>Eng</string>
 		<string>Ntilde</string>
 	</array>
+	<key>@MMK_L_O</key>
+	<array>
+		<string>D</string>
+		<string>O</string>
+	</array>
 	<key>@MMK_L_P</key>
 	<array>
 		<string>P</string>
@@ -63,6 +68,11 @@
 	<array>
 		<string>V</string>
 		<string>W</string>
+	</array>
+	<key>@MMK_L_X</key>
+	<array>
+		<string>K</string>
+		<string>X</string>
 	</array>
 	<key>@MMK_L_Y</key>
 	<array>
@@ -88,12 +98,12 @@
 	</array>
 	<key>@MMK_L_guillemetleft</key>
 	<array>
-		<string>guillemetleft</string>
+		<string>guillemotleft</string>
 		<string>guilsinglleft</string>
 	</array>
 	<key>@MMK_L_guillemetright</key>
 	<array>
-		<string>guillemetright</string>
+		<string>guillemotright</string>
 		<string>guilsinglright</string>
 	</array>
 	<key>@MMK_L_i</key>
@@ -158,7 +168,7 @@
 		<string>t</string>
 		<string>tbar</string>
 		<string>tcaron</string>
-		<string>tcedilla</string>
+		<string>uni0163</string>
 	</array>
 	<key>@MMK_L_u</key>
 	<array>
@@ -224,6 +234,11 @@
 		<string>Eng</string>
 		<string>Ntilde</string>
 	</array>
+	<key>@MMK_R_O</key>
+	<array>
+		<string>C</string>
+		<string>O</string>
+	</array>
 	<key>@MMK_R_S</key>
 	<array>
 		<string>S</string>
@@ -236,6 +251,10 @@
 	<array>
 		<string>V</string>
 		<string>W</string>
+	</array>
+	<key>@MMK_R_X</key>
+	<array>
+		<string>X</string>
 	</array>
 	<key>@MMK_R_Y</key>
 	<array>
@@ -260,12 +279,12 @@
 	</array>
 	<key>@MMK_R_guillemetleft</key>
 	<array>
-		<string>guillemetleft</string>
+		<string>guillemotleft</string>
 		<string>guilsinglleft</string>
 	</array>
 	<key>@MMK_R_guillemetright</key>
 	<array>
-		<string>guillemetright</string>
+		<string>guillemotright</string>
 		<string>guilsinglright</string>
 	</array>
 	<key>@MMK_R_i</key>
@@ -341,7 +360,7 @@
 		<string>t</string>
 		<string>tbar</string>
 		<string>tcaron</string>
-		<string>tcedilla</string>
+		<string>uni0163</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>

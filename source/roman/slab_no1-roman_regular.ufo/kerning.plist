@@ -4,6 +4,8 @@
 <dict>
 	<key>@MMK_L_A</key>
 	<dict>
+		<key>@MMK_R_O</key>
+		<integer>-40</integer>
 		<key>@MMK_R_S</key>
 		<integer>-10</integer>
 		<key>@MMK_R_T</key>
@@ -12,6 +14,8 @@
 		<integer>-100</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-90</integer>
+		<key>@MMK_R_n</key>
+		<integer>-20</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>-120</integer>
 	</dict>
@@ -32,6 +36,13 @@
 		<key>@MMK_R_quoteright</key>
 		<integer>-150</integer>
 	</dict>
+	<key>@MMK_L_N</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-25</integer>
+		<key>@MMK_R_v</key>
+		<integer>-40</integer>
+	</dict>
 	<key>@MMK_L_P</key>
 	<dict>
 		<key>@MMK_R_period</key>
@@ -50,7 +61,7 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-50</integer>
-		<key>guillemetleft</key>
+		<key>guillemotleft</key>
 		<integer>-70</integer>
 		<key>guilsinglleft</key>
 		<integer>-40</integer>
@@ -71,11 +82,13 @@
 		<integer>-30</integer>
 		<key>@MMK_R_period</key>
 		<integer>-150</integer>
+		<key>@MMK_R_t</key>
+		<integer>-30</integer>
 		<key>@MMK_R_v</key>
 		<integer>-30</integer>
-		<key>guillemetleft</key>
+		<key>guillemotleft</key>
 		<integer>-60</integer>
-		<key>guillemetright</key>
+		<key>guillemotright</key>
 		<integer>-40</integer>
 		<key>guilsinglleft</key>
 		<integer>-60</integer>
@@ -86,15 +99,24 @@
 		<key>z</key>
 		<integer>-40</integer>
 	</dict>
+	<key>@MMK_L_X</key>
+	<dict>
+		<key>@MMK_R_v</key>
+		<integer>-80</integer>
+	</dict>
 	<key>@MMK_L_Y</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-70</integer>
+		<key>@MMK_R_i</key>
+		<integer>-20</integer>
 		<key>@MMK_R_o</key>
 		<integer>-40</integer>
 		<key>@MMK_R_period</key>
 		<integer>-160</integer>
-		<key>guillemetleft</key>
+		<key>@MMK_R_t</key>
+		<integer>-30</integer>
+		<key>guillemotleft</key>
 		<integer>-60</integer>
 		<key>guilsinglleft</key>
 		<integer>-60</integer>
@@ -176,6 +198,8 @@
 		<integer>-50</integer>
 		<key>@MMK_R_t</key>
 		<integer>20</integer>
+		<key>@MMK_R_v</key>
+		<integer>-20</integer>
 		<key>s</key>
 		<integer>30</integer>
 	</dict>
@@ -197,7 +221,7 @@
 		<integer>-40</integer>
 		<key>@MMK_R_quoteright</key>
 		<integer>-30</integer>
-		<key>guillemetright</key>
+		<key>guillemotright</key>
 		<integer>50</integer>
 	</dict>
 	<key>@MMK_L_t</key>
@@ -207,6 +231,8 @@
 	</dict>
 	<key>@MMK_L_v</key>
 	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-20</integer>
 		<key>@MMK_R_period</key>
 		<integer>-100</integer>
 	</dict>
@@ -216,6 +242,15 @@
 		<integer>-66</integer>
 		<key>U</key>
 		<integer>-70</integer>
+	</dict>
+	<key>C</key>
+	<dict>
+		<key>@MMK_R_O</key>
+		<integer>-30</integer>
+		<key>@MMK_R_o</key>
+		<integer>-30</integer>
+		<key>@MMK_R_u</key>
+		<integer>-30</integer>
 	</dict>
 	<key>F</key>
 	<dict>
@@ -243,6 +278,10 @@
 	</dict>
 	<key>K</key>
 	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-20</integer>
+		<key>@MMK_R_u</key>
+		<integer>-40</integer>
 		<key>U</key>
 		<integer>-20</integer>
 	</dict>
@@ -291,7 +330,7 @@
 	<key>T</key>
 	<dict>
 		<key>@MMK_R_i</key>
-		<integer>-10</integer>
+		<integer>-30</integer>
 		<key>@MMK_R_n</key>
 		<integer>-10</integer>
 		<key>@MMK_R_o</key>
@@ -337,6 +376,11 @@
 		<key>y</key>
 		<integer>-30</integer>
 	</dict>
+	<key>X</key>
+	<dict>
+		<key>@MMK_R_u</key>
+		<integer>-40</integer>
+	</dict>
 	<key>Y</key>
 	<dict>
 		<key>@MMK_R_n</key>
@@ -379,6 +423,8 @@
 	<dict>
 		<key>@MMK_R_i</key>
 		<integer>-20</integer>
+		<key>@MMK_R_n</key>
+		<integer>-30</integer>
 		<key>e</key>
 		<integer>-40</integer>
 		<key>o</key>
@@ -389,7 +435,7 @@
 		<key>t</key>
 		<integer>-30</integer>
 	</dict>
-	<key>guillemetleft</key>
+	<key>guillemotleft</key>
 	<dict>
 		<key>@MMK_R_T</key>
 		<integer>-30</integer>
@@ -398,7 +444,7 @@
 		<key>@MMK_R_Y</key>
 		<integer>-60</integer>
 	</dict>
-	<key>guillemetright</key>
+	<key>guillemotright</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-50</integer>

@@ -17,6 +17,6 @@
       <point x="19" y="428" type="line"/>
       <point x="119" y="428" type="line"/>
     </contour>
-    <component base="dotaccentcomb" xOffset="1" yOffset="32"/>
+    <component base="uni0307" xOffset="1" yOffset="32"/>
   </outline>
 </glyph>

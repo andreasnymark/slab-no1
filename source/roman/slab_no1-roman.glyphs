@@ -1,10 +1,10 @@
 {
 DisplayStrings = (
 BPRD,
-q
+VXxWILLE
 );
 copyright = "SIL Open Font License, Version 1.1";
-date = "2015-05-20 21:02:58 +0000";
+date = "2015-06-22 07:16:24 +0000";
 designer = "Andreas Nymark";
 designerURL = "https://www.nymark.me/";
 familyName = "Slab No. 1";
@@ -103,7 +103,6 @@ xHeight = 500;
 {
 ascender = 750;
 capHeight = 750;
-custom = Black;
 descender = -250;
 guideLines = (
 {
@@ -131,7 +130,7 @@ verticalStems = (
 182
 );
 weight = Bold;
-weightValue = 900;
+weightValue = 700;
 widthValue = 5;
 xHeight = 500;
 }
@@ -139,7 +138,7 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2015-05-24 13:48:44 +0000";
+lastChange = "2015-06-19 02:23:25 +0000";
 layers = (
 {
 anchors = (
@@ -212,7 +211,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -313,7 +312,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -345,7 +344,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -373,7 +372,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -401,7 +400,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -433,7 +432,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -465,7 +464,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -493,7 +492,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -851,7 +850,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -883,7 +882,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -893,7 +892,7 @@ unicode = 00C3;
 },
 {
 glyphname = AE;
-lastChange = "2015-05-24 13:51:29 +0000";
+lastChange = "2015-06-19 02:10:45 +0000";
 layers = (
 {
 associatedMasterId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -1279,7 +1278,7 @@ nodes = (
 );
 };
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -1298,8 +1297,8 @@ nodes = (
 "792 145 LINE",
 "675 145 LINE",
 "648.422 295 LINE",
-"752 295 LINE",
-"752 427 LINE",
+"742 295 LINE",
+"742 427 LINE",
 "625.034 427 LINE",
 "602 557 LINE",
 "776 557 LINE",
@@ -1863,7 +1862,7 @@ width = 698;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -2220,7 +2219,7 @@ width = 686;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -2290,7 +2289,7 @@ width = 700;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2316,7 +2315,7 @@ width = 700;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2342,7 +2341,7 @@ width = 700;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2368,7 +2367,7 @@ width = 700;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2535,7 +2534,7 @@ width = 668;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -2598,7 +2597,7 @@ width = 668;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2624,7 +2623,7 @@ width = 668;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2646,7 +2645,7 @@ width = 668;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2654,7 +2653,7 @@ unicode = 0110;
 },
 {
 glyphname = E;
-lastChange = "2015-05-24 13:51:54 +0000";
+lastChange = "2015-06-19 02:11:47 +0000";
 layers = (
 {
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -2695,40 +2694,40 @@ width = 596;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"285 295 LINE",
-"431 295 LINE",
-"431 427 LINE",
-"285 427 LINE"
+"254 291 LINE",
+"431 291 LINE",
+"431 423 LINE",
+"254 423 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "301 557 LINE",
-"468 557 LINE",
-"468 458 LINE",
-"620 458 LINE",
-"620 699 LINE",
+"469 557 LINE",
+"469 458 LINE",
+"621 458 LINE",
+"621 699 LINE",
 "40 699 LINE",
 "40 557 LINE",
 "119 557 LINE",
 "119 145 LINE",
 "40 145 LINE",
 "40 0 LINE",
-"637 0 LINE",
-"637 257 LINE",
-"485 257 LINE",
-"485 145 LINE",
+"638 0 LINE",
+"638 257 LINE",
+"486 257 LINE",
+"486 145 LINE",
 "301 145 LINE"
 );
 }
 );
-width = 677;
+width = 678;
 }
 );
 leftKerningGroup = H;
@@ -2757,7 +2756,7 @@ width = 596;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2789,7 +2788,7 @@ width = 596;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2817,7 +2816,7 @@ width = 596;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2845,7 +2844,7 @@ width = 596;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2873,7 +2872,7 @@ width = 596;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2901,7 +2900,7 @@ width = 596;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2933,7 +2932,7 @@ width = 596;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -2961,7 +2960,7 @@ width = 596;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3010,7 +3009,7 @@ width = 575;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3272,7 +3271,7 @@ width = 776;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3299,7 +3298,7 @@ width = 748;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3325,7 +3324,7 @@ width = 748;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3351,7 +3350,7 @@ width = 748;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3413,7 +3412,7 @@ width = 720;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -3537,7 +3536,7 @@ width = 720;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3573,7 +3572,7 @@ width = 305;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -3647,7 +3646,7 @@ width = 305;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3677,7 +3676,7 @@ width = 305;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3703,7 +3702,7 @@ width = 305;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3728,7 +3727,7 @@ width = 305;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3754,7 +3753,7 @@ width = 305;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3784,7 +3783,7 @@ width = 305;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3810,7 +3809,7 @@ width = 305;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -3887,7 +3886,7 @@ width = 350;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -3922,7 +3921,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2015-05-24 12:58:10 +0000";
+lastChange = "2015-06-19 02:50:45 +0000";
 layers = (
 {
 background = {
@@ -4020,63 +4019,63 @@ width = 749;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
-"327 556 LINE",
-"414 556 LINE",
-"414 699 LINE",
-"50 699 LINE",
-"50 556 LINE",
-"135 556 LINE",
-"135 145 LINE",
-"50 145 LINE",
-"50 0 LINE",
-"414 0 LINE",
-"414 145 LINE",
-"327 145 LINE"
+"317 556 LINE",
+"404 556 LINE",
+"404 699 LINE",
+"40 699 LINE",
+"40 556 LINE",
+"125 556 LINE",
+"125 145 LINE",
+"40 145 LINE",
+"40 0 LINE",
+"404 0 LINE",
+"404 145 LINE",
+"317 145 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"274 203 LINE",
-"799 599 LINE",
-"717 679 LINE",
-"192 283 LINE"
+"235 142 LINE",
+"738 598 LINE",
+"656 678 LINE",
+"153 222 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"508 145 LINE",
-"508 0 LINE",
-"861 0 LINE",
-"861 145 LINE"
+"487 145 LINE",
+"487 0 LINE",
+"830 0 LINE",
+"830 145 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"824 556 LINE",
-"824 699 LINE",
-"486 699 LINE",
-"486 556 LINE"
+"793 556 LINE",
+"793 699 LINE",
+"485 699 LINE",
+"485 556 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"415 346 LINE",
-"652 16 LINE",
-"837 72 LINE",
-"540 485 LINE"
+"394 346 LINE",
+"631 16 LINE",
+"796 72 LINE",
+"499 485 LINE"
 );
 }
 );
-width = 720;
+width = 860;
 }
 );
 leftMetricsKey = H;
@@ -4103,7 +4102,7 @@ width = 749;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -4111,7 +4110,7 @@ unicode = 0136;
 },
 {
 glyphname = L;
-lastChange = "2015-05-24 13:51:07 +0000";
+lastChange = "2015-06-19 03:06:04 +0000";
 layers = (
 {
 hints = (
@@ -4161,34 +4160,8 @@ width = 574;
 },
 {
 associatedMasterId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-layerId = "968D08BC-80AA-43B3-AEE5-B4BDBDFAC1C6";
-name = "Bold Black May 24 15, 15:45";
-paths = (
-{
-closed = 1;
-nodes = (
-"300 557 LINE",
-"393 557 LINE",
-"393 699 LINE",
-"40 699 LINE",
-"40 557 LINE",
-"119 557 LINE",
-"119 145 LINE",
-"40 145 LINE",
-"40 0 LINE",
-"605 0 LINE",
-"605 257 LINE",
-"463 257 LINE",
-"463 145 LINE",
-"300 145 LINE"
-);
-}
-);
-width = 645;
-},
-{
-layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+layerId = "3CE13FEC-F51C-4733-9F2F-6424E325467D";
+name = Light;
 paths = (
 {
 closed = 1;
@@ -4202,15 +4175,41 @@ nodes = (
 "99 145 LINE",
 "40 145 LINE",
 "40 0 LINE",
-"565 0 LINE",
-"565 257 LINE",
-"423 257 LINE",
-"423 145 LINE",
+"611 0 LINE",
+"611 294 LINE",
+"469 294 LINE",
+"469 145 LINE",
 "280 145 LINE"
 );
 }
 );
-width = 595;
+width = 651;
+},
+{
+layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"280 557 LINE",
+"343 557 LINE",
+"343 699 LINE",
+"40 699 LINE",
+"40 557 LINE",
+"99 557 LINE",
+"99 145 LINE",
+"40 145 LINE",
+"40 0 LINE",
+"581 0 LINE",
+"581 324 LINE",
+"439 324 LINE",
+"439 145 LINE",
+"280 145 LINE"
+);
+}
+);
+width = 611;
 }
 );
 leftKerningGroup = L;
@@ -4238,7 +4237,7 @@ width = 574;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -4264,7 +4263,7 @@ width = 574;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -4290,7 +4289,7 @@ width = 574;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -4324,7 +4323,7 @@ width = 569;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -4478,7 +4477,7 @@ width = 1105;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -4671,7 +4670,7 @@ width = 791;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -4730,7 +4729,7 @@ width = 761;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -4758,7 +4757,7 @@ width = 761;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -4786,7 +4785,7 @@ width = 761;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -4830,7 +4829,7 @@ name = N;
 }
 );
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -4879,7 +4878,7 @@ width = 761;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5387,7 +5386,7 @@ width = 740;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -5451,7 +5450,7 @@ width = 711;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5481,7 +5480,7 @@ width = 711;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5507,7 +5506,7 @@ width = 711;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5537,7 +5536,7 @@ width = 711;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5567,7 +5566,7 @@ width = 711;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5593,7 +5592,7 @@ width = 711;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5626,7 +5625,7 @@ width = 740;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5656,7 +5655,7 @@ width = 711;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5728,7 +5727,7 @@ width = 882;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -5736,7 +5735,7 @@ unicode = 0152;
 },
 {
 glyphname = P;
-lastChange = "2015-05-24 13:53:36 +0000";
+lastChange = "2015-06-19 02:36:23 +0000";
 layers = (
 {
 background = {
@@ -5798,17 +5797,17 @@ nodes = (
 hints = (
 {
 horizontal = 1;
-origin = "{1, 16}";
-target = "{0, 6}";
+origin = "{0, 1}";
+target = "{0, 26}";
 },
 {
 horizontal = 1;
-origin = "{0, 0}";
-target = "{1, 5}";
+origin = "{0, 20}";
+target = "{0, 7}";
 },
 {
-origin = "{0, 3}";
-target = "{1, 2}";
+origin = "{0, 23}";
+target = "{0, 4}";
 }
 );
 layerId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -5817,20 +5816,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"308 617 LINE SMOOTH",
-"398 617 OFFCURVE",
-"438 560 OFFCURVE",
-"438 481 CURVE SMOOTH",
-"438 411 OFFCURVE",
-"388 355 OFFCURVE",
-"315 355 CURVE SMOOTH",
-"201 355 LINE",
-"201 617 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
+"185 273 LINE",
+"338 273 LINE SMOOTH",
 "445 273 OFFCURVE",
 "533 378 OFFCURVE",
 "533 481 CURVE SMOOTH",
@@ -5846,8 +5833,17 @@ nodes = (
 "280 0 LINE",
 "280 82 LINE",
 "201 82 LINE",
-"201 273 LINE",
-"338 273 LINE SMOOTH"
+"201 289 LINE",
+"201 339 LINE",
+"201 617 LINE",
+"308 617 LINE SMOOTH",
+"398 617 OFFCURVE",
+"438 560 OFFCURVE",
+"438 481 CURVE SMOOTH",
+"438 411 OFFCURVE",
+"388 355 OFFCURVE",
+"315 355 CURVE SMOOTH",
+"185 355 LINE"
 );
 }
 );
@@ -5899,28 +5895,28 @@ width = 640;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
 nodes = (
 "281 557 LINE",
-"339 557 LINE SMOOTH",
-"398 557 OFFCURVE",
-"435 515 OFFCURVE",
-"435 471 CURVE SMOOTH",
-"435 429 OFFCURVE",
-"400 379 OFFCURVE",
-"337 379 CURVE SMOOTH",
+"349 557 LINE SMOOTH",
+"408 557 OFFCURVE",
+"445 513 OFFCURVE",
+"445 471 CURVE SMOOTH",
+"445 427 OFFCURVE",
+"410 379 OFFCURVE",
+"347 379 CURVE SMOOTH",
 "254 379 LINE",
-"253 245 LINE",
-"341 245 LINE SMOOTH",
-"511 245 OFFCURVE",
-"605 341 OFFCURVE",
-"605 475 CURVE SMOOTH",
-"605 629 OFFCURVE",
-"492 699 OFFCURVE",
-"361 699 CURVE SMOOTH",
+"253 235 LINE",
+"351 235 LINE SMOOTH",
+"521 235 OFFCURVE",
+"615 329 OFFCURVE",
+"615 471 CURVE SMOOTH",
+"615 627 OFFCURVE",
+"502 699 OFFCURVE",
+"371 699 CURVE SMOOTH",
 "40 699 LINE",
 "40 557 LINE",
 "99 557 LINE",
@@ -6039,7 +6035,7 @@ width = 571;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -6049,7 +6045,7 @@ unicode = 00DE;
 },
 {
 glyphname = Q;
-lastChange = "2015-05-18 21:51:20 +0000";
+lastChange = "2015-06-03 22:01:33 +0000";
 layers = (
 {
 associatedMasterId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -6366,9 +6362,52 @@ nodes = (
 width = 711;
 },
 {
+components = (
+{
+name = O;
+}
+);
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
-width = 600;
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"718 -11 OFFCURVE",
+"638 -11 OFFCURVE",
+"613 -11 CURVE SMOOTH",
+"613 -11 OFFCURVE",
+"569 119 OFFCURVE",
+"548 172 CURVE SMOOTH",
+"510 270 OFFCURVE",
+"476 380 OFFCURVE",
+"373 380 CURVE SMOOTH",
+"255 380 OFFCURVE",
+"234 265 OFFCURVE",
+"259 221 CURVE SMOOTH",
+"278 187 OFFCURVE",
+"285 152 OFFCURVE",
+"340 150 CURVE",
+"324 161 OFFCURVE",
+"317 180 OFFCURVE",
+"317 192 CURVE SMOOTH",
+"317 205 OFFCURVE",
+"330 227 OFFCURVE",
+"350 227 CURVE SMOOTH",
+"386 227 OFFCURVE",
+"413 152 OFFCURVE",
+"432 90 CURVE SMOOTH",
+"448 39 OFFCURVE",
+"514 -149 OFFCURVE",
+"514 -149 CURVE SMOOTH",
+"544 -149 OFFCURVE",
+"718 -149 OFFCURVE",
+"718 -149 CURVE",
+"718 -11 LINE"
+);
+}
+);
+width = 743;
 }
 );
 leftMetricsKey = O;
@@ -6377,7 +6416,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2015-05-25 21:16:02 +0000";
+lastChange = "2015-06-19 02:42:28 +0000";
 layers = (
 {
 background = {
@@ -6576,67 +6615,6 @@ nodes = (
 width = 737;
 },
 {
-guideLines = (
-{
-angle = 270;
-locked = 1;
-position = "{605, 236}";
-}
-);
-layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
-paths = (
-{
-closed = 1;
-nodes = (
-"338 0 LINE",
-"338 145 LINE",
-"279 145 LINE",
-"280 260 LINE",
-"346 260 LINE SMOOTH",
-"395 260 OFFCURVE",
-"425 207 OFFCURVE",
-"432 154 CURVE SMOOTH",
-"452 0 LINE",
-"696 0 LINE",
-"696 145 LINE",
-"626 145 LINE",
-"609 245 LINE SMOOTH",
-"601 294 OFFCURVE",
-"564 329 OFFCURVE",
-"499 342 CURVE",
-"550 346 OFFCURVE",
-"618 388 OFFCURVE",
-"618 494 CURVE SMOOTH",
-"618 636 OFFCURVE",
-"505 699 OFFCURVE",
-"374 699 CURVE SMOOTH",
-"40 699 LINE",
-"40 557 LINE",
-"99 557 LINE",
-"99 145 LINE",
-"40 145 LINE",
-"40 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"281 557 LINE",
-"343 557 LINE SMOOTH",
-"402 557 OFFCURVE",
-"439 522 OFFCURVE",
-"439 478 CURVE SMOOTH",
-"439 436 OFFCURVE",
-"404 394 OFFCURVE",
-"341 394 CURVE SMOOTH",
-"280 394 LINE"
-);
-}
-);
-width = 733;
-},
-{
 associatedMasterId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
 guideLines = (
 {
@@ -6697,6 +6675,132 @@ nodes = (
 }
 );
 width = 763;
+},
+{
+associatedMasterId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
+guideLines = (
+{
+angle = 270;
+locked = 1;
+position = "{605, 236}";
+}
+);
+layerId = "ED5CE5F2-4451-45AD-9530-DDC3D8AA8727";
+name = "Bold Black Jun 18 15, 21:40";
+paths = (
+{
+closed = 1;
+nodes = (
+"338 0 LINE",
+"338 145 LINE",
+"279 145 LINE",
+"280 260 LINE",
+"356 260 LINE SMOOTH",
+"405 260 OFFCURVE",
+"435 207 OFFCURVE",
+"442 154 CURVE SMOOTH",
+"462 0 LINE",
+"696 0 LINE",
+"696 145 LINE",
+"626 145 LINE",
+"614 215 LINE SMOOTH",
+"605 273 OFFCURVE",
+"574 329 OFFCURVE",
+"509 342 CURVE",
+"560 346 OFFCURVE",
+"628 388 OFFCURVE",
+"628 494 CURVE SMOOTH",
+"628 636 OFFCURVE",
+"515 699 OFFCURVE",
+"384 699 CURVE SMOOTH",
+"40 699 LINE",
+"40 557 LINE",
+"99 557 LINE",
+"99 145 LINE",
+"40 145 LINE",
+"40 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"281 557 LINE",
+"353 557 LINE SMOOTH",
+"412 557 OFFCURVE",
+"449 522 OFFCURVE",
+"449 478 CURVE SMOOTH",
+"449 436 OFFCURVE",
+"414 394 OFFCURVE",
+"351 394 CURVE SMOOTH",
+"280 394 LINE"
+);
+}
+);
+width = 733;
+},
+{
+guideLines = (
+{
+angle = 270;
+locked = 1;
+position = "{605, 236}";
+},
+{
+position = "{170, 395}";
+}
+);
+layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"338 0 LINE",
+"338 145 LINE",
+"279 145 LINE",
+"280 257 LINE",
+"336 257 LINE SMOOTH",
+"412 257 OFFCURVE",
+"433 207 OFFCURVE",
+"440 154 CURVE SMOOTH",
+"460 0 LINE",
+"706 0 LINE",
+"706 145 LINE",
+"636 145 LINE",
+"624 215 LINE SMOOTH",
+"615 273 OFFCURVE",
+"584 321 OFFCURVE",
+"519 334 CURVE",
+"562 338 OFFCURVE",
+"638 386 OFFCURVE",
+"638 498 CURVE SMOOTH",
+"638 636 OFFCURVE",
+"525 699 OFFCURVE",
+"394 699 CURVE SMOOTH",
+"40 699 LINE",
+"40 557 LINE",
+"99 557 LINE",
+"99 145 LINE",
+"40 145 LINE",
+"40 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"281 557 LINE",
+"370 557 LINE SMOOTH",
+"422 557 OFFCURVE",
+"453 519 OFFCURVE",
+"453 474 CURVE SMOOTH",
+"453 430 OFFCURVE",
+"424 394 OFFCURVE",
+"370 394 CURVE SMOOTH",
+"280 394 LINE"
+);
+}
+);
+width = 736;
 }
 );
 leftMetricsKey = H;
@@ -6722,7 +6826,7 @@ width = 652;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -6748,7 +6852,7 @@ width = 652;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -6774,7 +6878,7 @@ width = 652;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -6893,7 +6997,7 @@ width = 603;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -7053,7 +7157,7 @@ width = 603;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7079,7 +7183,7 @@ width = 603;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7105,7 +7209,7 @@ width = 603;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7130,7 +7234,7 @@ width = 603;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7451,7 +7555,7 @@ width = 774;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7498,7 +7602,7 @@ width = 630;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 paths = (
 {
 closed = 1;
@@ -7549,7 +7653,7 @@ width = 630;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7575,7 +7679,7 @@ width = 630;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7601,7 +7705,7 @@ width = 630;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7626,7 +7730,7 @@ width = 630;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7634,7 +7738,7 @@ unicode = 021A;
 },
 {
 glyphname = U;
-lastChange = "2015-05-25 05:40:59 +0000";
+lastChange = "2015-06-19 02:32:12 +0000";
 layers = (
 {
 hints = (
@@ -7735,8 +7839,41 @@ width = 737;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
-width = 600;
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"89 557 LINE",
+"89 248 LINE SMOOTH",
+"89 84 OFFCURVE",
+"181 -9 OFFCURVE",
+"355 -9 CURVE SMOOTH",
+"529 -9 OFFCURVE",
+"621 84 OFFCURVE",
+"621 248 CURVE SMOOTH",
+"621 557 LINE",
+"680 557 LINE",
+"680 699 LINE",
+"381 699 LINE",
+"381 557 LINE",
+"440 557 LINE",
+"440 258 LINE SMOOTH",
+"440 185 OFFCURVE",
+"411 148 OFFCURVE",
+"355 148 CURVE SMOOTH",
+"299 148 OFFCURVE",
+"270 185 OFFCURVE",
+"270 258 CURVE SMOOTH",
+"270 557 LINE",
+"329 557 LINE",
+"329 699 LINE",
+"30 699 LINE",
+"30 557 LINE"
+);
+}
+);
+width = 710;
 }
 );
 unicode = 0055;
@@ -7760,7 +7897,7 @@ width = 717;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7790,7 +7927,7 @@ width = 717;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7816,7 +7953,7 @@ width = 717;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7842,7 +7979,7 @@ width = 717;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7872,7 +8009,7 @@ width = 717;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7898,7 +8035,7 @@ width = 717;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7924,7 +8061,7 @@ width = 717;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7950,7 +8087,7 @@ width = 717;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -7958,7 +8095,7 @@ unicode = 016E;
 },
 {
 glyphname = V;
-lastChange = "2015-05-20 20:25:44 +0000";
+lastChange = "2015-06-19 02:58:38 +0000";
 layers = (
 {
 anchors = (
@@ -8053,8 +8190,31 @@ width = 773;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
-width = 600;
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"331 85 LINE",
+"407 85 LINE",
+"241 557 LINE",
+"305 557 LINE",
+"305 699 LINE",
+"-4 699 LINE",
+"-4 557 LINE",
+"61 557 LINE",
+"253 0 LINE",
+"476 0 LINE",
+"675 557 LINE",
+"743 557 LINE",
+"743 699 LINE",
+"434 699 LINE",
+"434 557 LINE",
+"495 557 LINE"
+);
+}
+);
+width = 760;
 }
 );
 leftKerningGroup = V;
@@ -8063,7 +8223,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2015-05-20 20:26:10 +0000";
+lastChange = "2015-06-19 03:15:32 +0000";
 layers = (
 {
 associatedMasterId = "4E6304A5-AAA7-499A-971C-E934927B9416";
@@ -8290,6 +8450,7 @@ nodes = (
 "404 699 LINE",
 "404 617 LINE",
 "483 617 LINE",
+"527 484 LINE",
 "687 0 LINE",
 "795 0 LINE",
 "985 617 LINE",
@@ -8304,9 +8465,56 @@ nodes = (
 width = 1084;
 },
 {
+guideLines = (
+{
+angle = 270;
+position = "{523, 212}";
+}
+);
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
-width = 600;
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"301 85 LINE",
+"357 85 LINE",
+"241 557 LINE",
+"305 557 LINE",
+"305 699 LINE",
+"-4 699 LINE",
+"-4 557 LINE",
+"61 557 LINE",
+"223 0 LINE",
+"446 0 LINE",
+"526 414 LINE",
+"435 557 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"695 85 LINE",
+"751 85 LINE",
+"615 557 LINE",
+"679 557 LINE",
+"679 699 LINE",
+"370 699 LINE",
+"370 557 LINE",
+"435 557 LINE",
+"522 415 LINE",
+"597 0 LINE",
+"820 0 LINE",
+"989 557 LINE",
+"1057 557 LINE",
+"1057 699 LINE",
+"748 699 LINE",
+"748 557 LINE",
+"809 557 LINE"
+);
+}
+);
+width = 1074;
 }
 );
 leftKerningGroup = V;
@@ -8335,7 +8543,7 @@ width = 1084;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8361,7 +8569,7 @@ width = 1084;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8387,7 +8595,7 @@ width = 1084;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8413,7 +8621,7 @@ width = 1084;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8616,7 +8824,7 @@ width = 835;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8626,7 +8834,7 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2015-05-20 20:26:16 +0000";
+lastChange = "2015-06-19 02:53:46 +0000";
 layers = (
 {
 background = {
@@ -8660,19 +8868,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"297 230 LINE",
+"106 617 LINE",
+"297 224 LINE",
 "297 82 LINE",
 "220 82 LINE",
 "220 0 LINE",
 "465 0 LINE",
 "465 82 LINE",
 "389 82 LINE",
-"389 236 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "389 225 LINE",
 "577 617 LINE",
 "653 617 LINE",
@@ -8680,20 +8883,13 @@ nodes = (
 "399 699 LINE",
 "399 617 LINE",
 "476 617 LINE",
-"303 234 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
+"326 285 LINE",
+"359 286 LINE",
 "206 617 LINE",
 "283 617 LINE",
 "283 699 LINE",
 "30 699 LINE",
-"30 617 LINE",
-"106 617 LINE",
-"297 224 LINE",
-"383 234 LINE"
+"30 617 LINE"
 );
 }
 );
@@ -8742,8 +8938,37 @@ width = 669;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
-width = 600;
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"96 557 LINE",
+"287 250 LINE",
+"287 145 LINE",
+"227 145 LINE",
+"227 0 LINE",
+"526 0 LINE",
+"526 145 LINE",
+"467 145 LINE",
+"467 251 LINE",
+"654 557 LINE",
+"724 557 LINE",
+"724 699 LINE",
+"413 699 LINE",
+"413 557 LINE",
+"473 557 LINE",
+"316 297 LINE",
+"438 297 LINE",
+"278 557 LINE",
+"337 557 LINE",
+"337 699 LINE",
+"30 699 LINE",
+"30 557 LINE"
+);
+}
+);
+width = 754;
 }
 );
 leftKerningGroup = Y;
@@ -8770,7 +8995,7 @@ width = 683;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8798,7 +9023,7 @@ width = 683;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8826,7 +9051,7 @@ width = 683;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8854,7 +9079,7 @@ width = 683;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8900,7 +9125,7 @@ width = 620;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8926,7 +9151,7 @@ width = 620;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8952,7 +9177,7 @@ width = 620;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -8977,7 +9202,7 @@ width = 620;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9116,7 +9341,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9150,7 +9375,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9199,7 +9424,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9227,7 +9452,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9255,7 +9480,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9287,7 +9512,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9319,7 +9544,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9347,7 +9572,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9417,7 +9642,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9449,7 +9674,7 @@ width = 544;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9682,7 +9907,7 @@ width = 862;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9753,7 +9978,7 @@ width = 606;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9959,7 +10184,7 @@ width = 500;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -9987,7 +10212,7 @@ width = 500;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10014,7 +10239,7 @@ width = 500;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10041,7 +10266,7 @@ width = 500;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10068,7 +10293,7 @@ width = 500;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10124,7 +10349,7 @@ width = 619;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10201,7 +10426,7 @@ width = 524;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10231,7 +10456,7 @@ width = 691;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10258,7 +10483,7 @@ width = 619;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10477,7 +10702,7 @@ width = 504;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10507,7 +10732,7 @@ width = 504;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10539,7 +10764,7 @@ width = 504;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10567,7 +10792,7 @@ width = 504;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10595,7 +10820,7 @@ width = 504;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10623,7 +10848,7 @@ width = 504;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10651,7 +10876,7 @@ width = 504;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10683,7 +10908,7 @@ width = 504;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10711,7 +10936,7 @@ width = 504;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -10858,7 +11083,7 @@ width = 424;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11057,7 +11282,7 @@ width = 640;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11084,7 +11309,7 @@ width = 554;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11110,7 +11335,7 @@ width = 554;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11136,7 +11361,7 @@ width = 554;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11162,7 +11387,7 @@ width = 642;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11191,7 +11416,7 @@ width = 642;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11218,7 +11443,7 @@ width = 327;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11245,7 +11470,7 @@ width = 317;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11273,7 +11498,7 @@ width = 330;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11304,7 +11529,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11331,7 +11556,7 @@ width = 353;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11356,7 +11581,7 @@ width = 317;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11381,7 +11606,7 @@ width = 329;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11411,7 +11636,7 @@ width = 317;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11440,7 +11665,7 @@ width = 317;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11513,7 +11738,7 @@ width = 293;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11590,7 +11815,7 @@ width = 628;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11616,7 +11841,7 @@ width = 628;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11650,7 +11875,7 @@ width = 327;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11677,7 +11902,7 @@ width = 327;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11704,7 +11929,7 @@ width = 396;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11730,7 +11955,7 @@ width = 327;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11764,7 +11989,7 @@ width = 348;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11885,7 +12110,7 @@ width = 908;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -11987,7 +12212,7 @@ width = 631;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12015,7 +12240,7 @@ width = 631;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12041,7 +12266,7 @@ width = 631;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12067,7 +12292,7 @@ width = 631;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12177,7 +12402,7 @@ width = 621;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12203,7 +12428,7 @@ width = 631;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12436,7 +12661,7 @@ width = 574;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12464,7 +12689,7 @@ width = 524;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12496,7 +12721,7 @@ width = 524;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12524,7 +12749,7 @@ width = 524;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12556,7 +12781,7 @@ width = 524;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12588,7 +12813,7 @@ width = 524;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12616,7 +12841,7 @@ width = 524;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12651,7 +12876,7 @@ width = 574;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12683,7 +12908,7 @@ width = 524;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12878,7 +13103,7 @@ width = 964;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -12977,7 +13202,7 @@ width = 607;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -13021,7 +13246,7 @@ width = 607;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -13219,7 +13444,7 @@ width = 633;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -13726,7 +13951,7 @@ width = 456;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -13753,7 +13978,7 @@ width = 456;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -13779,7 +14004,7 @@ width = 456;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -13805,7 +14030,7 @@ width = 456;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -13937,7 +14162,7 @@ width = 497;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -13965,7 +14190,7 @@ width = 497;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -13993,7 +14218,7 @@ width = 497;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14021,7 +14246,7 @@ width = 497;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14049,7 +14274,7 @@ width = 497;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14398,7 +14623,7 @@ width = 647;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 },
 {
@@ -14642,7 +14867,7 @@ width = 323;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14670,7 +14895,7 @@ width = 398;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14698,7 +14923,7 @@ width = 398;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14725,7 +14950,7 @@ width = 398;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14752,7 +14977,7 @@ width = 398;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14832,7 +15057,7 @@ width = 631;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14861,7 +15086,7 @@ width = 632;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14890,7 +15115,7 @@ width = 632;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14916,7 +15141,7 @@ width = 632;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14948,7 +15173,7 @@ width = 632;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -14978,7 +15203,7 @@ width = 632;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15004,7 +15229,7 @@ width = 632;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15030,7 +15255,7 @@ width = 632;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15056,7 +15281,7 @@ width = 632;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15143,7 +15368,7 @@ width = 644;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15257,7 +15482,7 @@ width = 869;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15287,7 +15512,7 @@ width = 869;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15315,7 +15540,7 @@ width = 869;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15343,7 +15568,7 @@ width = 869;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15371,7 +15596,7 @@ width = 869;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15564,7 +15789,7 @@ width = 616;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15925,7 +16150,7 @@ width = 650;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15953,7 +16178,7 @@ width = 644;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -15981,7 +16206,7 @@ width = 644;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -16009,7 +16234,7 @@ width = 644;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -16037,7 +16262,7 @@ width = 644;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -16077,7 +16302,7 @@ width = 507;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -16103,7 +16328,7 @@ width = 507;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -16129,7 +16354,7 @@ width = 507;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -16155,7 +16380,7 @@ width = 507;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -16208,7 +16433,7 @@ width = 583;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -16244,7 +16469,7 @@ width = 463;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -16381,7 +16606,7 @@ width = 590;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 },
 {
@@ -16559,7 +16784,7 @@ width = 563;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 },
 {
@@ -16923,7 +17148,7 @@ width = 610;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 },
 {
@@ -17090,7 +17315,7 @@ width = 563;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -17354,7 +17579,7 @@ width = 581;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 },
 {
@@ -17471,7 +17696,7 @@ width = 541;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18353,7 +18578,7 @@ width = 553;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18434,7 +18659,7 @@ width = 587;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18473,7 +18698,7 @@ width = 381;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18501,7 +18726,7 @@ width = 425;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18524,7 +18749,7 @@ width = 233;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18560,7 +18785,7 @@ width = 346;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18586,7 +18811,7 @@ width = 233;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18764,7 +18989,7 @@ width = 213;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18802,7 +19027,7 @@ width = 616;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18837,7 +19062,7 @@ width = 233;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18860,7 +19085,7 @@ width = 233;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18954,7 +19179,7 @@ width = 750;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -18990,7 +19215,7 @@ width = 233;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19092,7 +19317,7 @@ width = 437;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19115,7 +19340,7 @@ width = 437;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19154,7 +19379,7 @@ width = 328;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19184,7 +19409,7 @@ width = 192;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19213,7 +19438,7 @@ width = 272;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19241,7 +19466,7 @@ width = 466;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19269,7 +19494,7 @@ width = 548;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19357,7 +19582,7 @@ width = 461;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19424,7 +19649,7 @@ width = 461;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19462,7 +19687,7 @@ width = 316;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19502,7 +19727,7 @@ width = 316;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19544,7 +19769,7 @@ width = 391;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19582,7 +19807,7 @@ width = 386;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19610,7 +19835,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19638,7 +19863,7 @@ width = 387;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19666,7 +19891,7 @@ width = 390;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19707,7 +19932,7 @@ width = 518;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19750,7 +19975,7 @@ width = 518;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19782,7 +20007,7 @@ width = 324;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19814,7 +20039,7 @@ width = 324;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19843,7 +20068,7 @@ width = 366;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19872,7 +20097,7 @@ width = 373;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19902,7 +20127,7 @@ width = 375;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19929,7 +20154,7 @@ width = 203;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -19982,7 +20207,7 @@ width = 210;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20009,7 +20234,7 @@ width = 203;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20028,7 +20253,7 @@ width = 250;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20045,7 +20270,7 @@ width = 280;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20061,7 +20286,7 @@ width = 280;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20077,7 +20302,7 @@ width = 0;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20115,7 +20340,7 @@ width = 525;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20216,7 +20441,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20287,7 +20512,7 @@ width = 584;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20429,7 +20654,7 @@ width = 739;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20494,7 +20719,7 @@ width = 572;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20559,7 +20784,7 @@ width = 669;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20597,7 +20822,7 @@ width = 417;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20636,7 +20861,7 @@ width = 537;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20673,7 +20898,7 @@ width = 519;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20712,7 +20937,7 @@ width = 519;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20740,7 +20965,7 @@ width = 417;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20779,7 +21004,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20820,7 +21045,7 @@ name = slash;
 }
 );
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20916,7 +21141,7 @@ width = 769;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20953,7 +21178,7 @@ width = 417;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -20983,7 +21208,7 @@ width = 292;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -21020,7 +21245,7 @@ width = 292;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -21348,7 +21573,7 @@ width = 1500;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -21719,7 +21944,7 @@ width = 771;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 },
 {
@@ -21933,7 +22158,7 @@ width = 540;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22020,7 +22245,7 @@ width = 753;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22120,7 +22345,7 @@ width = 615;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22219,7 +22444,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22296,7 +22521,7 @@ transform = "{1, 0, 0, 1, 600, 0}";
 }
 );
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 1200;
 },
 {
@@ -22476,7 +22701,7 @@ width = 384;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22514,7 +22739,7 @@ width = 405;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22553,7 +22778,7 @@ width = 417;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22599,7 +22824,7 @@ width = 417;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22627,7 +22852,7 @@ width = 431;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22665,7 +22890,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22702,7 +22927,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22748,7 +22973,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22785,7 +23010,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22835,7 +23060,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22886,7 +23111,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22939,7 +23164,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -22975,7 +23200,7 @@ width = 340;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23003,7 +23228,7 @@ width = 431;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23040,7 +23265,7 @@ width = 563;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23068,7 +23293,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23106,7 +23331,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23159,7 +23384,7 @@ width = 436;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23187,7 +23412,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23215,7 +23440,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23259,7 +23484,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23287,7 +23512,7 @@ width = 440;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23329,7 +23554,7 @@ width = 474;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23355,7 +23580,7 @@ name = caroncomb;
 }
 );
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23377,7 +23602,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23399,7 +23624,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23452,7 +23677,7 @@ width = 718;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23474,7 +23699,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23502,7 +23727,7 @@ width = 500;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23532,7 +23757,7 @@ name = hungarumlautcomb;
 }
 );
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23560,7 +23785,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23586,7 +23811,7 @@ name = ogonekcomb;
 }
 );
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23639,7 +23864,7 @@ width = 833;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23661,7 +23886,7 @@ width = 600;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23897,7 +24122,7 @@ ShoulderWidth = 1;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -23975,7 +24200,7 @@ width = 340;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -24008,7 +24233,7 @@ width = 320;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -24079,7 +24304,7 @@ width = 638;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -24107,7 +24332,7 @@ width = 436;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -24135,7 +24360,7 @@ width = 772;
 },
 {
 layerId = "6D6256FC-FAD3-4C86-BA28-1242924913A9";
-name = "Bold Black";
+name = Bold;
 width = 600;
 }
 );
@@ -24390,8 +24615,8 @@ f = {
 "@MMK_R_i" = -20;
 "@MMK_R_n" = -30;
 e = -40;
-o = -40;
 g = -40;
+o = -40;
 };
 germandbls = {
 t = -30;
